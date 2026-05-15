@@ -406,7 +406,7 @@ with profile_tab:
             f"""
             <div class="overview-grid">
               <div class="overview-card"><h4>去程 1</h4><p>TW664<br>台北 02:00 → 大邱 05:25</p></div>
-              <div class="overview-card"><h4>轉機</h4><p>大邱 5 小時 15 分<br>韓屋星巴克 / 小頭火豬肉湯飯</p></div>
+              <div class="overview-card"><h4>轉機</h4><p>大邱 5 小時 15 分<br>05:25 抵達 / 10:40 出發</p></div>
               <div class="overview-card"><h4>去程 2 / 回程</h4><p>TW251 大邱 10:40 → 成田 12:45<br>IT201 成田 12:30 → 台北 15:10</p></div>
             </div>
             """,
@@ -515,8 +515,6 @@ with profile_tab:
             "9STAY 蔵前": map_embed_url("9STAY Kuramae 2-6-6 Misuji Tokyo"),
             "MEGU FUJI 2021": map_embed_url("Megu Fuji 2021 2-7-13 Kamiyoshida Fujiyoshida"),
             "池袋 Bel Avenir": map_embed_url("Bel Avenir 3-46-12 Kamiikebukuro Toshima Tokyo"),
-            "大邱韓屋星巴克": map_embed_url("Starbucks Daegu Jongro Gotaek"),
-            "小頭火 豬肉湯飯": map_embed_url("小頭火 豬肉湯飯 大邱"),
             "御殿場 Outlet": map_embed_url("Gotemba Premium Outlets"),
             "富士急樂園": map_embed_url("Fuji-Q Highland"),
         }
